@@ -1,0 +1,13 @@
+.card {
+  height: 400px; /*Your height here */
+}
+
+.card-image {
+  height: 250xp; /* Your height here*/
+}
+
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
